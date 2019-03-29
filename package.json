@@ -1,0 +1,26 @@
+{
+  "name": "ramda-decorators",
+  "version": "0.0.1",
+  "description": "Decorators pattern for Ramda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unadlib/ramda-decorators.git"
+  },
+  "keywords": [
+    "ramda"
+  ],
+  "author": "unadlib",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unadlib/ramda-decorators/issues"
+  },
+  "homepage": "https://github.com/unadlib/ramda-decorators#readme",
+  "dependencies": {
+    "@types/ramda": "^0.26.5",
+    "ramda": "^0.26.1"
+  }
+}
